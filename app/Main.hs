@@ -1,7 +1,6 @@
 module Main where
 
 import Data.Time
-import Data.List.Split
 
 main :: IO ()
 main = do
